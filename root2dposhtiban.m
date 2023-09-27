@@ -1,0 +1,11 @@
+function F = root2dposhtiban(x,t ,d )
+
+
+F(1) = sin(x(4))+sin(x(5)+x(4)) - sin(x(1))-sin(x(1)+x(2)); %z(t) ;
+F(2) = cos(x(1)+x(2))+cos(x(1))-cos(x(5)+x(4))-cos(x(4)) ;
+            %x
+F(3) = cos(x(4)) + cos(x(5)+x(4)); %x(t) ;
+F(4) = x(1)+x(2)+x(3)-pi ;
+F(5) = x(4)+x(5)+x(6)-pi ;
+%F(6) = x_ +cos(x(1)+x(2)) + cos(x(1)) - cos(x(4))-cos(x(4)+x(5)) ;
+end     %x

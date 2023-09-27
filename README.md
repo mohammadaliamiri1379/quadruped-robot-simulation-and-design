@@ -35,15 +35,15 @@ The code visualizes the robot's walking motion by plotting the positions of the 
 ## Simulation Results
 
 ### Standing and Sitting Move
-![Simulation - Standing and Sitting Move](up and down simulation.gif)
+![Simulation - Standing and Sitting Move](up_and_down_simulation.gif)
 
 ### Walking
-![Simulation - Walking](walking simulation.gif)
+![Simulation - Walking](walking_simulation.gif)
 
 ## Real Results
 
 ### Standing and Sitting Move
-![Real - Standing and Sitting Move](up down.gif)
+![Real - Standing and Sitting Move](up_down.gif)
 
 ### Walking
 ![Real - Walking](walk.gif)
